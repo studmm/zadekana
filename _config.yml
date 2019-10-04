@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 plugins:          [jekyll-paginate]
 
 # Permalinks
@@ -11,8 +11,8 @@ permalink:        pretty
 title:            ЗаДекана
 tagline:          'За лучший мехмат'
 description:      'Кампания за достойного декана механико-математического факультета'
-url:              http://zadekana.ru
-baseurl:          /
+url:              http://zadekana.ru/
+baseurl:
 
 author:
   name:           'Mark Otto'
