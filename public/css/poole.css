@@ -93,6 +93,7 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  color: #0568bb;
 }
 h3 {
   margin-top: 1.5rem;
@@ -274,8 +275,15 @@ tbody tr:nth-child(odd) th {
 .message {
   margin-bottom: 1rem;
   padding: 1rem;
-  color: #717171;
-  background-color: #f9f9f9;
+  /*color: #717171;*/
+  background-color: #ccebff;
+}
+
+.warning {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  /*color: #717171;*/
+  background-color: #c6f9e1;
 }
 
 
