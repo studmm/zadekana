@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            За Декана
+title:            'За Декана'
 tagline:          'За лучший мехмат'
 description:      'Кампания за достойное будущее механико-математического факультета'
-url:              https://zadekana.ru/
+url:              'https://zadekana.ru/'
