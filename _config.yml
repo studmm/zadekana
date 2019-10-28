@@ -1,4 +1,7 @@
 # Dependencies
+plugins:
+  - jekyll-seo-tag
+
 markdown:         kramdown
 highlighter:      rouge
 
@@ -10,3 +13,16 @@ title:            'За Декана'
 tagline:          'За лучший мехмат'
 description:      'Кампания за достойное будущее механико-математического факультета'
 url:              'https://zadekana.ru/'
+
+# Other
+lang:             ru_RU
+logo:             '/public/logo.png'
+defaults:
+  - scope:
+      path: ''
+    values:
+      image: '/public/logo.png'
+social:
+  links:
+    - https://vk.com/zadekana
+    - https://www.facebook.com/zadekana
