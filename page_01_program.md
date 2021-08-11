@@ -88,4 +88,4 @@ _Disclaimer_: эта программа была опубликована нам
 
 - [vk.com/zadekana](https://vk.com/zadekana)
 - [fb.com/zadekana](https://fb.com/zadekana)
-- [t.me/zadekana](https://msut.me/zadekana)
+- [t.me/zadekana](https://t.me/zadekana)

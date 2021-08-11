@@ -54,10 +54,10 @@ _Подробнее о кандидатах на соответствующей 
 
 - [vk.com/zadekana](https://vk.com/zadekana)
 - [fb.com/zadekana](https://fb.com/zadekana)
-- [t.me/zadekana](https://msut.me/zadekana)
+- [t.me/zadekana](https://t.me/zadekana)
 
 
-- Канал Студсовета мехмата: [t.me/stud_mm](https://msut.me/stud_mm)
+- Канал Студсовета мехмата: [t.me/stud_mm](https://t.me/stud_mm)
 
 ---
 
